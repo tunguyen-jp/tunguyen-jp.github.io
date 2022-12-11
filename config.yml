@@ -1,4 +1,4 @@
-baseURL: "https://tunguyen-jp.github.io/"
+baseURL: "https://tunguyen-jp.github.io/hugo-PaperMod/"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
