@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tunguyen-jp.github.io/sitemap.xml
