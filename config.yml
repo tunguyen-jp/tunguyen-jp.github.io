@@ -2,6 +2,7 @@ baseURL: "https://tunguyen-jp.github.io/hugo-PaperMod/"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
+publishDir: docs
 
 enableRobotsTXT: true
 buildDrafts: false
